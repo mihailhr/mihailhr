@@ -1,12 +1,8 @@
 
-
-<a href="https://github.com/mihailhr" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=mihailhr&count_private=true&theme=radical" />
-</a>
-
 <h1>Hello, I'm Mihail</h1>
 
 <p>A passionate newby developer from Bulgaria</p>
+
 
 <h2>🛠 Skills</h2>
 <p>
