@@ -3,6 +3,10 @@
 
 <p>A passionate newby developer from Bulgaria</p>
 
+<h2> Current projects</h2>
+<a href="https://focus-dealership.vercel.app/">Focus Car Dealership</a>
+<a href="https://mihailhr.github.io/Life-Simulator-Game/">Life Simulator</a>
+
 
 <h2>🛠 Skills</h2>
 <p>
